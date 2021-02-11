@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b0b6d4a9-9dc1-4605-aec7-e892e6b02cd6",
+    "data": [
+      {
+        "text": "yüksek teknoloji ve bilişim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49b2cd0b-fa43-4b2f-8c60-5995c02ebb83",
+    "data": [
+      {
+        "text": "hizmet süreçleri kontrolu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a1d8876-d388-479f-97c9-6838ee2151dd",
+    "data": [
+      {
+        "text": "garanti",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hizmetleri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

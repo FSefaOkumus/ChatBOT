@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dae38e3d-14d5-4b28-adbe-36b359f3bda8",
+    "data": [
+      {
+        "text": "dağıtım",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a822d09-44f4-4779-b733-843885c6438c",
+    "data": [
+      {
+        "text": "taşımacılıkta ",
+        "userDefined": false
+      },
+      {
+        "text": "nerede",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanabiliriz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cfa0d87-ac93-4323-83ac-02bd9a5bb75b",
+    "data": [
+      {
+        "text": "lojistik için ",
+        "userDefined": false
+      },
+      {
+        "text": "nerede",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanabilirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cbcc1a2-f52f-4293-a1f4-29f5a5141d52",
+    "data": [
+      {
+        "text": "taşımacılıkta ",
+        "userDefined": false
+      },
+      {
+        "text": "nerede",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanabilirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff665903-67a6-4613-9cbb-094b66f98c3a",
+    "data": [
+      {
+        "text": "lojistik ve taşımacılık",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

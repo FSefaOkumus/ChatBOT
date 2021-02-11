@@ -1,0 +1,64 @@
+[
+  {
+    "id": "eacd662a-8e80-4696-bde1-be73453f4239",
+    "data": [
+      {
+        "text": "planlama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77860a99-9451-4f28-9ab1-e47c7c5ac549",
+    "data": [
+      {
+        "text": "GPRS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9408b7a-9b0c-466e-87c5-f0539cb56859",
+    "data": [
+      {
+        "text": "İmar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef2492ec-7d3a-4190-aac4-3048c3fdcd66",
+    "data": [
+      {
+        "text": "Kadastro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53380c9c-d8bb-461d-9772-809043c6e4ea",
+    "data": [
+      {
+        "text": "netcad",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

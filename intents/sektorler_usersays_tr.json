@@ -1,0 +1,168 @@
+[
+  {
+    "id": "93738ebe-1ad9-4b2d-abf3-3b3340a143c0",
+    "data": [
+      {
+        "text": "kimler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanılır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abac825f-7267-4493-9d2b-1a0b49975d73",
+    "data": [
+      {
+        "text": "nerede",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanılır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c018794-7f33-405a-9c70-3867ba8f641c",
+    "data": [
+      {
+        "text": "hangi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " meslek grupları kullanılıyor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18cf4e90-5f90-4e6a-a47f-e415a81404ef",
+    "data": [
+      {
+        "text": "nerelerde kullanabilirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec475c00-a67a-4b4c-9daa-1582caa5c018",
+    "data": [
+      {
+        "text": "hangi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " iş ",
+        "userDefined": false
+      },
+      {
+        "text": "dalları",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanılıyor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39003c40-d50b-48bf-800d-0648374773a8",
+    "data": [
+      {
+        "text": "nerde kullanabiliriz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c054d8d-5a70-4b18-b5ea-4b5ea4f4bb60",
+    "data": [
+      {
+        "text": "robotlarınız nerde kullanılır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "032a8635-b601-4aa2-a780-d67e2a316f67",
+    "data": [
+      {
+        "text": "robotlarınız nerde kullanılıyoruz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f8b682a-5427-462a-99fb-d75e6f21db4d",
+    "data": [
+      {
+        "text": "sektörler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "198d8028-14ba-467b-97fe-b70c15e972b9",
+    "data": [
+      {
+        "text": "hangi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sektörlerde çalışıyorsunuz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e840f6f0-ab1e-4dec-8672-2c62337b4f16",
+    "data": [
+      {
+        "text": "nerelere iş yapıyorsunuz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

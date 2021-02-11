@@ -1,0 +1,31 @@
+{
+  "id": "f1ffc221-f973-43d8-a408-5fcd57390ec5",
+  "name": "Kariyer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Momentum BT, var olan yeteneklerin açığa çıkması ve kullanılmasını önemser bunu oluşturacak çalışma ortamı yaratmak için çalışır. Farklı disiplinler ve farklı kültürlerde yetişmiş kendini iyi ifade edebilen bireylerle çalışmayı sever.\n\nAradığımız en temel yetkinliklerimiz;\n\nDisiplin\nÖğrenme ve uygulama ile ilgili istek ve yeterlilik\nSosyal farkındalık ve gözlem\nBaşvurunuz için, el yazınızla ve bilgisayar ortamında hazırladığınız sizi diğerlerin önüne geçirecek potansiyellerinizi keşfedeceğimiz “Bir moment yaratmak istiyorum“ konu başlığı ile başvuru mektubunuzu iletişim adresimize göndermeniz yeterli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

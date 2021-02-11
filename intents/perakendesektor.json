@@ -1,0 +1,31 @@
+{
+  "id": "fdbceb38-bfcd-40fe-9ea6-dc3ecec388f7",
+  "name": "perakendesektor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "\u003e Depo yönetimi ve sipariş\n\u003e Finans Kontrolü\n\u003e Mal Yönetimi\n\u003e Malzeme ve Stok İşlemleri\n\u003e Nakit İşlemleri ve Karlılık Analizi\n\u003e Satınalma Süreci\n\u003e Sipariş İşlemleri\n\u003e Şube Hizmetleri"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2bc343a6-5ab4-4074-b364-f9a3ef917891",
+  "name": "smalltalk.agent.chatbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.chatbot",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Ben ARYA.Yapay zeka destekli bir MomentumBT çalışanıyım.Senin için hızlı ve unutulmaz bir deneyim yaşatmak için tasarlandım."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

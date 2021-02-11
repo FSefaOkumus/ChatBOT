@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ec9b424f-41f1-46bf-9474-fef1a6fabf45",
+    "data": [
+      {
+        "text": "faturalar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "315f1d54-9b59-48d6-aec6-2389b4017672",
+    "data": [
+      {
+        "text": "tahsilat gecikmesi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19a79af2-0032-41ff-80eb-7de7af0cd5a1",
+    "data": [
+      {
+        "text": "fatura",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ve tahlisat robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "922b110f-2399-4855-89fa-91876ed3982a",
+    "data": [
+      {
+        "text": "tahsilat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7b0d8f6-9d3e-4e88-a7ca-d5dbef8cb031",
+    "data": [
+      {
+        "text": "fatura",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

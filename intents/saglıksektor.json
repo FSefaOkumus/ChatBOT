@@ -1,0 +1,31 @@
+{
+  "id": "f91003c7-9aa4-4b58-ad8b-49147f1b929f",
+  "name": "saglıksektor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "\u003e Hasta İşlemleri\n\u003e Hekim planlama\n\u003e kamu işlemleri ve bildirimleri\n\u003e Kaynak Planlaması\n\u003e Muhasebe İşlemleri\n\u003e Personel Süreçleri\n\u003e Tedavi Analizleri\n\u003e Konsülide Raporlar"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

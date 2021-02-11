@@ -1,0 +1,31 @@
+{
+  "id": "ada86b32-8793-4ebc-90ae-d05f1a5d37b1",
+  "name": "faturavetahsilatrobotu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "SRX540 (Fatura ve Tahsilat Robotu) : El yazısı olmayan elektronik ortadaki tüm faturaların doğruluğunu kontrol eder, işler, Tahsilat gecikmelerini tespit eder, bilgilendirme yapar ve müşterilere hatırlatma maili gönderir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

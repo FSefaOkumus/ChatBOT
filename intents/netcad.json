@@ -1,0 +1,31 @@
+{
+  "id": "73eb9c40-62e1-475a-a544-ac54689c5841",
+  "name": "netcad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Netcad mekansal kadastro imar, planlama ve mühendislik yazılımıdır. MBT Netcad Botu tabu, gprs ve diğer araçlardan gelen verileri kontrol ederek, sisteme işler hataları ortadan kaldırır ve hız kazandırır."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

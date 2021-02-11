@@ -1,0 +1,31 @@
+{
+  "id": "af84476b-9f35-49ac-815a-511f1db2778c",
+  "name": "digitaldonusum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Dijital Dönüşüm \u0027 ü 3 Temel Altında değerlendiriyoruz. \n1 ) RPA \n2 ) Makine Öğrenmesi(ML) \n3 ) Yapay Zeka(AI)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

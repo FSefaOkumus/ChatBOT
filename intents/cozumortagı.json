@@ -1,0 +1,31 @@
+{
+  "id": "2a1d25c9-2a4e-4942-9cab-6609e6d1ed1b",
+  "name": "cozumortagı",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Gelişen teknoloji ekonomik sistemlerde köklü değişiklikleri beraberinde getirmektedir. Paylaşım ekonomisi her geçen birçok teknoloji firmasının küresel ağda hızla yayılmasında önemli bir tetikleyici olmuştur.\n\nMomentum BT’ nin küresel oyuncu olma yolundaki adımları için yayılma fırsatı yaratan paydaşlarına sunduğu fırsatlar için bizimle iletişime geçin"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

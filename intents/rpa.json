@@ -1,0 +1,135 @@
+{
+  "id": "849e74f0-5046-415d-b2b6-9b3fc2da037d",
+  "name": "rpa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "İyileştirme, her işletmenin aradığı anahtar kelimedir. RPA, temel olarak, insan eylemlerini taklit edebilen ve tıpkı bir insanın yaptığı gibi verileri ve uygulamaları yüksek hassasiyetle işlemek için kullanıcı ara yüzünü ile insanlar tarafından gerçekleştirilen tekrarlanan kurallara dayalı görevleri otomatikleştirebilen bilgisayar yazılımıdır.Kazançlarımız :"
+        },
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "subtitle": "E- postalarınızdaki dosyaları açar, düzenler arşivler",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/eposta.png"
+                    }
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "subtitle": "Web de bilgi arar / sosyal medya ve analitik performansını raporlar",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/web.png"
+                    }
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/copy-paste.png"
+                    }
+                  },
+                  "subtitle": "Dosyalar arasında bilgi taşır, bilgi girer, kopyalar yapıştırır",
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/form-1.png"
+                    }
+                  },
+                  "subtitle": "Formları doldurur, hesaplama yapar, uygunsuzlukları bulur, uyarır"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Kurumsal hesaplara girer, yapısal belgeleri düzenler",
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/kurumsal.png"
+                    }
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "subtitle": "Sistemleri, uygulamaları ve dosyaları birbirine bağlar",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/form.png"
+                    }
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Tanımlı riskleri takip eder, uyarır",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/risk.png"
+                    }
+                  },
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Koşullu kararları verir, zamanında işi hazırlar",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/form.png"
+                    }
+                  },
+                  "type": "info"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

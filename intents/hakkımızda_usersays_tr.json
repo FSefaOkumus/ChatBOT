@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7cae7a5c-d851-48a8-872d-78a05d6fe595",
+    "data": [
+      {
+        "text": "hakkınızda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0c11542-a70f-465a-b49a-64be531d217b",
+    "data": [
+      {
+        "text": "hakkımızda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

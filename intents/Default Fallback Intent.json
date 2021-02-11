@@ -1,0 +1,54 @@
+{
+  "id": "393ff6d2-11d8-47a3-af78-70aef5484b40",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Üzgünüm seni anlayamadım.\nGenel olarak yapabileceklerim"
+        },
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "1 - Ürünlerimiz",
+                    "2 - Fırsatlar",
+                    "3 - Hakkımızda",
+                    "4 - Sektörler",
+                    "5 - Dijital Dönüşüm",
+                    "6 - İletişim"
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

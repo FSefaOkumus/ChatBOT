@@ -1,0 +1,106 @@
+{
+  "id": "16c6d973-9a01-429a-b4f5-01bbb37af117",
+  "name": "sektorler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "title": "Bankalar"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Kamu Sektörü",
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "title": "Bankalar"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "title": "Lojistik ve Taşımacılık"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Enerji",
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "title": "İmalat"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "title": "Telekomünikasyon"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "title": "Perakende"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Sağlık Hizmetleri",
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Yüksek Teknoloji ve Bilişim",
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

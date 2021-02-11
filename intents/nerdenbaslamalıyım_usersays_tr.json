@@ -1,0 +1,77 @@
+[
+  {
+    "id": "c29e01e2-0faa-4aa8-8e97-fabc7108ff45",
+    "data": [
+      {
+        "text": "nerden",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " başlamalıyım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "683681bd-4efb-4033-91bd-36456c633fd1",
+    "data": [
+      {
+        "text": "bana yol",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gösterir ",
+        "userDefined": false
+      },
+      {
+        "text": "misin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b1a9144-c37f-4d73-9ed6-de6570df9808",
+    "data": [
+      {
+        "text": "seninle nasıl konuşabilirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a32bdf0f-ef43-4527-b9d5-525633cbb828",
+    "data": [
+      {
+        "text": "nasıl başlamalıyım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8da5301e-eb25-40aa-bdee-0cf7f4769339",
+    "data": [
+      {
+        "text": "nereden başlamalıyım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

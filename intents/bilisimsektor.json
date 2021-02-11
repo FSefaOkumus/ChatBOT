@@ -1,0 +1,31 @@
+{
+  "id": "c1d38694-23cc-465d-8663-29800054839c",
+  "name": "bilisimsektor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "\u003e BT Servis Yönetimi\n\u003e Garanti yönetimi\n\u003e Hizmet Süreçleri\n\u003e Kalite güvencesi\n\u003e Sipariş İşlemleri\n\u003e Doküman İzleme"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

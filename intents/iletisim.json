@@ -1,0 +1,53 @@
+{
+  "id": "01d7e7da-0738-411f-b7bf-baf5a00a2ad8",
+  "name": "iletisim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "http://www.momentumbt.com/wp-content/uploads/2019/06/momentum-logo-300x168.png",
+                  "accessibilityText": "Dialogflow across platforms",
+                  "type": "image"
+                },
+                {
+                  "actionLink": "https://www.google.com/maps?ll\u003d36.902384,30.716935\u0026z\u003d16\u0026t\u003dm\u0026hl\u003dtr\u0026gl\u003dTR\u0026mapclient\u003dembed\u0026cid\u003d12224527104713832593",
+                  "type": "info",
+                  "title": "MomentumBT",
+                  "subtitle": "Adresimiz"
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "MomentumBT Telefon - 0 242 317 09 67\nARYA Telefon - 0 544 541 12 72\nE-Posta - info@momentumbt.com  / arya@arya-ai.com"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

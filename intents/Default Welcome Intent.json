@@ -1,0 +1,73 @@
+{
+  "id": "44fea7a7-1b4c-4fcf-b3d5-6eb61d979f59",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "MomentumBT\u0027ye Hoşgediniz"
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Size sunduklarımız :\n\nİşlem Hızı yüksek\n\n0 Hata ile çalışan\n\nHızlı entegrasyon sağlayan\n\nSüreç maliyetini 4 kat az azaltan robotlarımız !"
+        },
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Detay için : ARYA",
+                      "image": {
+                        "src": {
+                          "rawUrl": "http://www.momentumbt.com/wp-content/uploads/ARYA.jpeg"
+                        }
+                      },
+                      "link": "https://www.arya-ai.com/"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Ben ARYA.Size nasıl yardımcı olmamı istersiniz ?\nYardıma ihtiyaç duyarsan ; Yapabileceklerimi sorman yeterli!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

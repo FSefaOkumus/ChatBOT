@@ -1,0 +1,56 @@
+{
+  "id": "505fa8e1-20cf-4f09-9dac-99342c0ff9d1",
+  "name": "hizmet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f28d7eb-6516-40fa-ba53-530ed85d59da",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Bunu duyduğuma sevindim! \nSizlere ulaşmamız adına lütfen e-postanızı yazar mısınız ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "$email üzerinden sizlere ulaşacağız.Teşekkür ederiz !"
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "İletişim yazarak telefon ile hemen iletişime geçebilirsin."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

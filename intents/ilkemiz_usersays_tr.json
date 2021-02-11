@@ -1,0 +1,64 @@
+[
+  {
+    "id": "b504c67c-0b0f-4d48-bc7b-ae31147dd3d9",
+    "data": [
+      {
+        "text": "ilkemiz",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a018a65b-4448-4142-be4a-fb027a978079",
+    "data": [
+      {
+        "text": "vizyonumuz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "644e60eb-5196-4c97-b038-9ff1d0361ce0",
+    "data": [
+      {
+        "text": "vizyon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a9fdddd-93d0-4a96-9d98-67aa69666a65",
+    "data": [
+      {
+        "text": "inanç",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0664b2e8-67dd-415b-a230-6e21c8635024",
+    "data": [
+      {
+        "text": "inancımız",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "5ac6bcc2-9e70-46e0-a458-1454048b25cb",
+    "data": [
+      {
+        "text": "sap",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomasyonu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5759cecc-a209-47c2-a080-7e65f996aa53",
+    "data": [
+      {
+        "text": "SAP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

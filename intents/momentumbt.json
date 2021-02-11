@@ -1,0 +1,37 @@
+{
+  "id": "dd276e01-28d9-4216-9f83-035618372c29",
+  "name": "momentumbt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Siz çalışmıyorken işleriniz durmasın! - MomentumBT"
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Momentum BT yönetim danışmanlığında edindiği süreç iyileştirme tecrübesini süreç otomasyonuna aktarmış bir teknoloji şirketidir. Odak çalışma alanı olan RPA’yi (Robotik Süreç Otomasyonu) makine öğrenmesi ve yapay zeka algoritmaları ile entegre ederek, sıfır hata  ile 7 / 24 çalışan sanal iş gücü üretmektedir.\n\nMomentum evrensel bir tanım olarak; kütle ve hızın çarpımında ortaya çıkan enerjidir. Bir çarpma/etki gücüdür. Bu etki gücü, hızın değişmesine, ivmeye neden olur. Buradan hareketle bizler bireylere ve her türlü oluşumlara ivme kazandıracak, onları koydukları hedeflere ulaşmada hızlandıracak güce sahip olduğumuz için buradayız."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

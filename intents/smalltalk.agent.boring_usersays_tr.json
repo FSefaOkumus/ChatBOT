@@ -1,0 +1,86 @@
+[
+  {
+    "id": "982dc859-0819-4702-a0c5-94bb0c3d0f40",
+    "data": [
+      {
+        "text": "gerçekten sıkıcısın",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8817e34d-b80a-49ed-9512-3c5bba7306d6",
+    "data": [
+      {
+        "text": "çok sıkıcısın",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514fe4fb-46b1-4e30-9dc6-dab18f1b7a62",
+    "data": [
+      {
+        "text": "acayip sıkıcısın",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87eec851-557b-4e2c-aa89-d59c15cfd866",
+    "data": [
+      {
+        "text": "beni sıkıyorsun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "362ed68f-d94a-4407-8a58-bb94e07ab09b",
+    "data": [
+      {
+        "text": "can sıkıcısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dba5024-d32e-4145-bd70-eda78475703c",
+    "data": [
+      {
+        "text": "amma sıkıcısın",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7de75b33-297d-44f8-865c-e27d47548b98",
+    "data": [
+      {
+        "text": "inanılmaz derecede sıkıcısın",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

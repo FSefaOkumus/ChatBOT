@@ -1,0 +1,31 @@
+{
+  "id": "b7ca812b-f28f-4c88-814f-a208a11c63ed",
+  "name": "satınalma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "SRX430 (Satın Alma Robotu) : Satın alma yapacağınız ürünler için tedarikçilerinize mail atar. Gelen tüm teklifleri konsolide eder. Belirlenen kriterlere en uygun olanı belirler. Yöneticiden uygunluk onayını alır ve buna göre sipariş talebini tedarikçilerinize mail gönderir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

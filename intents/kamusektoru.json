@@ -1,0 +1,31 @@
+{
+  "id": "a1d2681c-dcd9-495f-9781-ca5dc4f1e38c",
+  "name": "kamusektoru",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "\u003e BT Servis Yönetimi\n\u003e Finans Kontrolü\n\u003e İnsan Kaynakları\n\u003e Satın Alma İşlemleri\n\u003e İhaleler\n\u003e KVKK\n\u003e Denetim ve Kontrol\n\u003e Kanun ve yönetmelik değişiklikleri"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

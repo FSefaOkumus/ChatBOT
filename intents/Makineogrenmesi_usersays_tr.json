@@ -1,0 +1,49 @@
+[
+  {
+    "id": "4399b8d3-64f0-4e04-a475-395bd3c2196b",
+    "data": [
+      {
+        "text": "makina",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " öğrenmesi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38873556-4d89-43b0-a3b3-b1aeff2f1b5b",
+    "data": [
+      {
+        "text": "makine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " öğrenmesi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cceb4cc0-da42-43a3-9eff-45b8f4eda867",
+    "data": [
+      {
+        "text": "ML",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

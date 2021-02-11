@@ -1,0 +1,31 @@
+{
+  "id": "3a9f3d4a-b012-4e34-8901-57a2115fcca1",
+  "name": "partner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Momentum BT RPA teknolojisini, süreç madenciliği (Process Mining), makine öğrenmesi (machine learning (ML), nesnelerin interneti (Internet of Things- IOT) ve yapay zeka (Artificial Intelligence -AI) uygulamaları bütünleştirerek karanlık ofisler için çalışmaktadır.  Bu sayede insanı insan yapan düşünme ve üretme yeteneklerinin istediği ortamda çalışarak hayata geçirmesini hedeflemektedir.  Bu nedenle kolaylaştırıcı uygulama üreticileri ile iş birliğine hazırdır."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

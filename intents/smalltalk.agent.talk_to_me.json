@@ -1,0 +1,36 @@
+{
+  "id": "8c8507c3-c15e-4859-980b-390889d5e127",
+  "name": "smalltalk.agent.talk_to_me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.talk_to_me",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": [
+            "Tabiki , senin için burdayım",
+            "Umarın iyi bir gün geçiriyorsundur!",
+            "Umarım iyisindir!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

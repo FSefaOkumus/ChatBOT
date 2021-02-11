@@ -1,0 +1,31 @@
+{
+  "id": "c74f53dc-fe0b-4bbe-b00d-6d00c78f0e93",
+  "name": "Makineogrenmesi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Otomatik makine öğrenmesi, hem insanların hem de bilgisayarların güçlü yanlarından yararlanır. Karmaşık işlemlerde doğruluk ve hız sağlar. Bilgisayarlar ve yazılım sistemleri tekrarlayan işler, matematik, veri manipülasyonu ve paralel işleme için idealdir. İnsanlar ise iletişim, katılım, analiz, yaratıcılık ve empati konularında üstündür. Ancak verilerin arasında manuel işler yaparken kaybolur ve bu özelliklerini kullanamaz hale gelir. Makine öğrenmesi insan zekasına verileri hazır hale getirir.Otomatik makine öğrenmesi, daha geleneksel bir veri bilimi sürecinin gerektirdiği manuel işlerin çoğunun yerini almaktadır. Ancak tam otomatik bir makine öğrenme çözümü olarak kabul edilmek için, bir platform bu temel gereklilikleri TÜM olarak karşılamalıdır."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

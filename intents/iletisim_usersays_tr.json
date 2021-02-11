@@ -1,0 +1,158 @@
+[
+  {
+    "id": "577051f1-abe7-4d15-bf3e-ea6aaec2d59a",
+    "data": [
+      {
+        "text": "cep telefonu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07b01455-92b8-41d4-9ea4-3bef5ce799a8",
+    "data": [
+      {
+        "text": "cep",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f01e3717-4681-416d-b70c-df4bd38539dd",
+    "data": [
+      {
+        "text": "beni arar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mısın",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "759ba066-7706-4f3a-9405-7981668b05e3",
+    "data": [
+      {
+        "text": "telefon numarası",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f0f71ce-cc2b-46a6-abe8-7ce2cc899519",
+    "data": [
+      {
+        "text": "yeriniz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb1cb729-3c8c-4ba8-852d-6f13a71bd9ff",
+    "data": [
+      {
+        "text": "numara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d71a5d3-8dc2-42d1-82b5-38aef173b519",
+    "data": [
+      {
+        "text": "adres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8de2d3d-6f48-4cb6-8219-7d4fac8dd817",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bce1b1a-416e-4fea-9ffe-c34a08853010",
+    "data": [
+      {
+        "text": "telefon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7ed8bf5-955b-488d-b684-a255e03b6bbb",
+    "data": [
+      {
+        "text": "nerdesiniz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ad23299-6506-4fce-b634-f102e3937381",
+    "data": [
+      {
+        "text": "size nasıl ulaşırım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41800e5e-941f-4e12-b861-cac80c8f03f9",
+    "data": [
+      {
+        "text": "İletişim",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

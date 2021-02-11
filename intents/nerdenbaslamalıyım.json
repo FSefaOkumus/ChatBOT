@@ -1,0 +1,31 @@
+{
+  "id": "5b0a5af7-ae27-4013-92b5-30fd556ddbf5",
+  "name": "nerdenbaslamalıyım",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Şirketimizle ilgili her türlü soruyu sorabilirsin ! \nÖrneğin ; \nSipariş botu hakkında bilgi almak istiyorum.\nNeden RPA kullanıyorsunuz ?\nSize nasıl ulaşabilirim ?\nHangi sektörlerde kullanabilirim?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

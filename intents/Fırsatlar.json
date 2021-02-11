@@ -1,0 +1,31 @@
+{
+  "id": "203f90ba-27e4-4fd8-b3e3-044cb18923dd",
+  "name": "Fırsatlar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "1 ) Partner Olmak İstiyorum \n2 ) Çözüm Ortağı Olmak İstiyorum \n3 ) Kariyer Yapmak İstiyorum"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

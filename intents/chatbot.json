@@ -1,0 +1,31 @@
+{
+  "id": "8a0d2175-c226-4364-99da-ba4053c87b5a",
+  "name": "chatbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Yapay zeka kabiliyetine sahip Chatbot, müşterilerin isteklerini karşılamak ve çözmek için etkileşime girer. Bu botlar soru sorar, bilgi toplar ve arka ofis uygulamanızda bir sohbet penceresi, metin veya e-posta yoluyla görev yürütür. Chatbot Botlarımız, web siteleri, uygulamalar ve yazılı mesajlaşma dahil olmak üzere mevcut tüm çevrimiçi ve mobil platformlarınızı sorunsuz bir şekilde bütünleştirerek müşterilerinizin istediğiniz zaman, istediğiniz yerde size ulaşmasını sağlar. Daha kısa işlem süreleriyle en yüksek müşteri deneyimine sahiptir, manuel hataları azaltır ve aynı bilgi için çok rahatsız edici tekrarlanan soruları önler.\n\nARYA bir chatbot örneğidir!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

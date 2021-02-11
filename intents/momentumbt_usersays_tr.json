@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6a29e5bc-f756-4925-a92a-e5cb1051932b",
+    "data": [
+      {
+        "text": "firmanızı tanıtır ",
+        "userDefined": false
+      },
+      {
+        "text": "mısın",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfff313f-08e1-4a24-afca-d438e8e4888b",
+    "data": [
+      {
+        "text": "firmanız neler yapar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be0707b1-f39b-4ce2-ab3f-343b584a40f6",
+    "data": [
+      {
+        "text": "momentumbt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ne yapar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06243a30-07bb-4af5-a3ae-31709f6318d4",
+    "data": [
+      {
+        "text": "momentumBT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "984f7381-f9ef-4826-be78-8abb58248547",
+    "data": [
+      {
+        "text": "şirketinizi tanıtır ",
+        "userDefined": false
+      },
+      {
+        "text": "mısın",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d36b9643-5ddb-4ec7-8d7c-881c299c36cd",
+    "data": [
+      {
+        "text": "şirketiniz neler yapıyor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3680c37f-1c37-4303-be0e-f7a9c6c69ba5",
+    "data": [
+      {
+        "text": "şirketiniz ",
+        "userDefined": false
+      },
+      {
+        "text": "hakkında bilgi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " almak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

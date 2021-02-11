@@ -1,0 +1,60 @@
+[
+  {
+    "id": "5ddc7c16-b92a-4b92-9be0-5cb0a27012c8",
+    "data": [
+      {
+        "text": "sipariş için bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e13a7283-e923-4640-bcbc-2e2cd8545d26",
+    "data": [
+      {
+        "text": "sipariş etme ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ce624c5-ae58-4465-9d51-19cc515037e0",
+    "data": [
+      {
+        "text": "sipariş verme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b4fd3a8-e4d0-4113-9158-561317b6bd2b",
+    "data": [
+      {
+        "text": "siparis ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

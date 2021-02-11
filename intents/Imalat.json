@@ -1,0 +1,31 @@
+{
+  "id": "f8680c11-06ff-4398-b1cb-33973e0b26f4",
+  "name": "Imalat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "\u003e Depolama ve Dağıtım Süreci\n\u003e Fire Yönetimi\n\u003e Maliyet İzleme\n\u003e Kalite kontrol\n\u003e Planlama\n\u003e Raporlama\n\u003e Satınalma Süreci\n\u003e Stok ve Sipariş Takip"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

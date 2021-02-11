@@ -1,0 +1,153 @@
+[
+  {
+    "id": "d6fa76ec-68e2-4424-a31d-6ff99e0546fa",
+    "data": [
+      {
+        "text": "beni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aramanızı istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a9101b0-53e1-45e0-aee2-26d81ad57295",
+    "data": [
+      {
+        "text": "benimle iletişime geçmenizi istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df66e0c1-bb1c-404e-a912-d3950d6a5a47",
+    "data": [
+      {
+        "text": "benimle iletişime ",
+        "userDefined": false
+      },
+      {
+        "text": "geçin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60bf0b35-c420-4c7b-8b9d-5a83f062104b",
+    "data": [
+      {
+        "text": "bana ulaşmanızı istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "277ee35b-7eba-4954-a36b-823bef01c17b",
+    "data": [
+      {
+        "text": "satıcıyla görüşmek istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28678191-c7bc-4e67-a137-fdbffc732605",
+    "data": [
+      {
+        "text": "ürününüzü satın almak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71bd4564-34db-465f-ba2f-583ed2197b75",
+    "data": [
+      {
+        "text": "robot almama ",
+        "userDefined": false
+      },
+      {
+        "text": "yardım",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " et",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ef311946-08a8-4295-a4cd-c4ebd0fd4be4",
+    "data": [
+      {
+        "text": "paket satın almak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57c5a7d9-28cc-4b04-9f45-5e53c0a6e0f0",
+    "data": [
+      {
+        "text": "sipariş vermek istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "720b5be5-9d6d-4a5a-9064-efb2537dfedc",
+    "data": [
+      {
+        "text": "robot satın almak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17588988-0e60-477b-974e-1081129cc930",
+    "data": [
+      {
+        "text": "sizden hizmet almak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

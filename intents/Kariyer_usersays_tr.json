@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f46ab382-4f60-4cbf-ba9e-bffbdf2d96cd",
+    "data": [
+      {
+        "text": "çalışan olmak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "958f024a-6b30-4d43-a61e-88ee12003dfe",
+    "data": [
+      {
+        "text": "sizle çalışmak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5a3259b-340b-4333-b813-1f97b23aa57d",
+    "data": [
+      {
+        "text": "iş teklifi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efcddc14-ef1f-40c3-88cf-4518522a194b",
+    "data": [
+      {
+        "text": "stayjer olmak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46242daf-7e06-421f-b9da-ad72473740d6",
+    "data": [
+      {
+        "text": "iş ilanı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f575dfc-22cb-4dcd-9ea3-85beedcc392a",
+    "data": [
+      {
+        "text": "kariyer yapmak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

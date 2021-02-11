@@ -1,0 +1,69 @@
+[
+  {
+    "id": "d7c58de8-43bb-4584-bfd9-b6b7e62c4280",
+    "data": [
+      {
+        "text": "ortak olmak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a50023b-7db1-4152-8b5c-590d64cb96b3",
+    "data": [
+      {
+        "text": "nasıl ",
+        "userDefined": false
+      },
+      {
+        "text": "partner",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " olunur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48efb394-f890-4c39-80f3-9d73e31d89e5",
+    "data": [
+      {
+        "text": "partner",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " olmak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b7d490f-c01b-4e35-91ee-f882cadc9dc1",
+    "data": [
+      {
+        "text": "partner",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " olmak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

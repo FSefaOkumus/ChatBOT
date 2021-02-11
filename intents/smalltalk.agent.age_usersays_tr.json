@@ -1,0 +1,86 @@
+[
+  {
+    "id": "335b8363-11e5-46cc-abf6-95e008e70dea",
+    "data": [
+      {
+        "text": "kaç yaşındasın",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2da7fc44-f695-4afa-9a2b-a1160c8bbb3c",
+    "data": [
+      {
+        "text": "yaşın",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c41bf82a-6425-465b-a0c6-25bb0dd99bbf",
+    "data": [
+      {
+        "text": "yaşın kaç",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e462fa42-15d3-450e-af36-455eeb4df50a",
+    "data": [
+      {
+        "text": "yaşını söyle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22b181e0-60d5-47c6-8b9e-581fe2b7f15a",
+    "data": [
+      {
+        "text": "platformun kaç yaşında",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58e1a9dd-2bb4-4368-8207-83368bedbcee",
+    "data": [
+      {
+        "text": "yaşını öğrenebilir miyim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9573ca30-52cf-4bb1-bd54-c30563f9d328",
+    "data": [
+      {
+        "text": "bana yaşını söyle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

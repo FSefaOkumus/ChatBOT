@@ -1,0 +1,58 @@
+[
+  {
+    "id": "6c88c949-9677-4f0b-841f-cc692dc56d51",
+    "data": [
+      {
+        "text": "bankalarda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nerede",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanılır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e529624c-1857-4f10-aaad-0c5c85afc480",
+    "data": [
+      {
+        "text": "bankalarda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nasıl kullanılır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "863f8e46-ca25-4fc8-be63-2f4ffdd3fc92",
+    "data": [
+      {
+        "text": "banka",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

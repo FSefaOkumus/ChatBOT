@@ -1,0 +1,47 @@
+[
+  {
+    "id": "5868fb0f-b922-40b9-a3fa-328503875018",
+    "data": [
+      {
+        "text": "satınalma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17cd12fa-eac3-4b2a-b5f3-d8560964dfe0",
+    "data": [
+      {
+        "text": "satınalım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ac864bd-0c8d-4f52-ae30-c303bff28e1f",
+    "data": [
+      {
+        "text": "Satın ",
+        "userDefined": false
+      },
+      {
+        "text": "alma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

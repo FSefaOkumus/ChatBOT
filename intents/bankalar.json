@@ -1,0 +1,31 @@
+{
+  "id": "dda3f595-b07d-4a4b-ae19-206954ea9565",
+  "name": "bankalar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "\u003e BT Servis Yönetimi\n\u003e Kredi İşlemi\n\u003e Risk yönetimi\n\u003e Satış işlemi\n\u003e Yatırım Yönetimi\n\u003e Operasyonel İşlemler\n\u003e Bireysel bankacılık\n\u003e Kurumsal Bankacılık"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

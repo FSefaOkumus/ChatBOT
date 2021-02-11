@@ -1,0 +1,31 @@
+{
+  "id": "6798160d-59f4-4826-b37a-cf8a54219ad0",
+  "name": "enerjisektor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "\u003e Kaynak Tahsisleri\n\u003e Servis İşlemleri\n\u003e Dağıtım İşlemleri\n\u003e Talep Tahminleri\n\u003e Dalgalanma İzleme\n\u003e Bakım ve Güvenlik"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

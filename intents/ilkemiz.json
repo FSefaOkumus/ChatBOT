@@ -1,0 +1,37 @@
+{
+  "id": "afbe8afe-8307-4a77-bbf1-966d582826f2",
+  "name": "ilkemiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "“Bugüne kadar başarılan bütün mükemmel işler, içlerindeki bir şeyin koşulların üzerinde olduğuna inanma cesareti gösterenler tarafından yapılmıştır.” Bruce Barton . Biz içimizde; işte bu harikulade şeyleri yapabilecek, değişime ve gelişime sebep olabilecek gücün var olduğuna inanıyoruz."
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "İnsan olan her yerde ve her konuda içimizdeki heyecan ve tutkuyu, tecrübelerimizle birleştirmiş, konusunda uzman ve yenilikçi bir ekibiz. Birlikte çalıştığımız her birey veya oluşuma proje gözüyle bakıp, sahip oldukları gücün koşulların çok üzerinde olduğunu görerek yaklaşıyoruz. Eğlenerek öğrenmenin farkını biliyor, her projeyi oyunlarla süsleyerek daha çabuk davranışa dönüştürebiliyoruz. İhtiyacınız olan her konuda bizimle birlikte çözüm üretebileceğinizi, her soruna cevap bulabileceğinizi, dünyada uygulamada olan her türlü sistemi hayata geçirebileceğimizi biliyoruz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

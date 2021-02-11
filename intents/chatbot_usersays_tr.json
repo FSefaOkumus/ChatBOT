@@ -1,0 +1,55 @@
+[
+  {
+    "id": "5c7820f7-9a27-487e-b57f-9b2f1a827b3a",
+    "data": [
+      {
+        "text": "sohbet robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54e083a7-18e4-4648-8884-ac944ab30a1c",
+    "data": [
+      {
+        "text": "sohbet robortu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "198af1bd-1707-44c3-af4b-153628d5d334",
+    "data": [
+      {
+        "text": "sohbet ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "043fcf58-4c76-440d-baee-461660523868",
+    "data": [
+      {
+        "text": "chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

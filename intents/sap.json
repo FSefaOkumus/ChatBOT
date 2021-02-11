@@ -1,0 +1,31 @@
+{
+  "id": "344dd6b4-1334-49a3-8435-67f83eb1f6c1",
+  "name": "sap",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Bir çok İşletme ERP ihitaçlarını SAP’yi tercih etmektedir. SAP botlarımız ile SAP kullanıcılarına her modülü için veri girişinde tam doğruluk ve hız sağlayarak ilave rapor seçenekleri için kişisel çözümleri kurumsal hafızaya alıyoruz. Müşteriler arka uçlarında neredeyse sıfır hata olduğunu fark etmiş ve bu da yeniden işleme maliyetini azaltacaktır."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

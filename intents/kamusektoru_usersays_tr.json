@@ -1,0 +1,57 @@
+[
+  {
+    "id": "71be144e-12c8-46bf-80a3-caa1ba4ac5f1",
+    "data": [
+      {
+        "text": "kamu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sektöründe neden kullanmalıyım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e275493d-f957-458c-bad0-d6d0ee1377de",
+    "data": [
+      {
+        "text": "kamu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sektörü",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d885579d-7b9d-4587-8ea8-43af8305dd3f",
+    "data": [
+      {
+        "text": "kamuda ",
+        "userDefined": false
+      },
+      {
+        "text": "nerede",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kullanabilirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "741e1a90-d2e1-446f-b007-c6f38fac5b5d",
+    "data": [
+      {
+        "text": "dıgıtal donusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb558b34-20d5-4916-bbe3-f7718cfcc8ed",
+    "data": [
+      {
+        "text": "dijital donusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ee3c9d9-e606-4d8d-99fa-42ef801deb79",
+    "data": [
+      {
+        "text": "dijital dönüşüm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

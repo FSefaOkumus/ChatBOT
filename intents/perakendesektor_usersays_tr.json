@@ -1,0 +1,65 @@
+[
+  {
+    "id": "f3185adf-303a-488f-aa3e-467f806210cb",
+    "data": [
+      {
+        "text": "şubemde nasıl kullanabilirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9de6e58c-4a95-4cdd-8577-b38dc9b7c4d0",
+    "data": [
+      {
+        "text": "marketimde nasıl kullanabilirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60d74903-e78f-4687-8e27-fa055ad8455b",
+    "data": [
+      {
+        "text": "alışveriş merkezi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edbe7058-73b9-4dbf-903e-50ecf6b6260b",
+    "data": [
+      {
+        "text": "Market",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3071f7d9-1c68-4ca0-b039-fb3ce2e7fc31",
+    "data": [
+      {
+        "text": "Perakende",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
