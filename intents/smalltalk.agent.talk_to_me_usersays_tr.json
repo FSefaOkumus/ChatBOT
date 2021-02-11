@@ -1,0 +1,218 @@
+[
+  {
+    "id": "f41b2230-ffe7-4cc1-af12-813a7e60a238",
+    "data": [
+      {
+        "text": "benimle konuşabilir misin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a749ba16-a40c-4151-aaea-c1103c1c12cd",
+    "data": [
+      {
+        "text": "konuş",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3721710-d0d3-4060-9167-f06ca350cd83",
+    "data": [
+      {
+        "text": "benimle konuş",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6e7fae4a-b744-41a5-b406-b206531bd35d",
+    "data": [
+      {
+        "text": "benimle konuşabilecek misin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ea612bf-2392-4987-b4df-b76c03af8462",
+    "data": [
+      {
+        "text": "benimle konuşacak mısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34d47783-def8-4629-add2-a5b7b74704f1",
+    "data": [
+      {
+        "text": "benimle neden konuşmuyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89cd712e-5587-4b01-82de-10ae5369ca24",
+    "data": [
+      {
+        "text": "benimle konuşabilirsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59239025-ef56-4d27-99a2-40af904372b6",
+    "data": [
+      {
+        "text": "benimle sohbet etmek istiyor musun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ca9e67e-8c33-41a7-8205-830be12bdbcc",
+    "data": [
+      {
+        "text": "benimle mi konuşuyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96ad25ef-2eaa-46ff-8126-9682f6ea2dc9",
+    "data": [
+      {
+        "text": "söyle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abf635ff-21b1-4982-a9bf-9f7735c927aa",
+    "data": [
+      {
+        "text": "benimle konuşur musun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49057b27-52cd-41f2-819a-bcea6b4b8b19",
+    "data": [
+      {
+        "text": "neden benimle konuşmuyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22d72d84-9832-423f-8daa-d8d8637bd0cb",
+    "data": [
+      {
+        "text": "benimle sohbet et",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4105dc24-667d-4f61-8e35-e7c167bc6305",
+    "data": [
+      {
+        "text": "konuş benimle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "420327c3-eb99-4f7d-b572-76665fd1a186",
+    "data": [
+      {
+        "text": "sohbet et benimle işte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5434550f-9f40-4e32-80ac-46d3502a6e81",
+    "data": [
+      {
+        "text": "benimle sohbet edebilir misin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36d8a22b-f709-4f7e-a975-769abed192e5",
+    "data": [
+      {
+        "text": "haydi konuş benimle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ab187da-f191-4091-9813-28c18e668d36",
+    "data": [
+      {
+        "text": "konuşur musun benimle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

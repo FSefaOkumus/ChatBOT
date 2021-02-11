@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cbeef00b-02d7-45cc-90f6-317fe8cb502e",
+    "data": [
+      {
+        "text": "bu doğru değil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f295b7e-af91-418d-97bf-32247e2d8203",
+    "data": [
+      {
+        "text": "doğru olmadı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7abd8055-0ade-4e55-b9d2-180b504cf48b",
+    "data": [
+      {
+        "text": "öyle değil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73a5a2ff-fa36-404f-9431-ee2a3cf68597",
+    "data": [
+      {
+        "text": "uygun değil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a91777-a084-4494-9e5c-a70882d1ca5e",
+    "data": [
+      {
+        "text": "bu hiç doğru değil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ca1a5e3-d042-480d-b29c-6ceddbf8f423",
+    "data": [
+      {
+        "text": "doğru değil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02acbcfb-4beb-40ce-8823-cd9d24ecff55",
+    "data": [
+      {
+        "text": "hatalısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "714f3730-f65e-4048-b512-8e181ada5b04",
+    "data": [
+      {
+        "text": "doğru değil bu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7159d65-91d6-47fc-99a8-f20bd1ba0039",
+    "data": [
+      {
+        "text": "hatalı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a83fcf8f-666f-4f5f-ba32-45f825ef269f",
+    "data": [
+      {
+        "text": "bu yanlıştı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2ddd03c-a287-4592-9394-b8698ea03656",
+    "data": [
+      {
+        "text": "yanlış oldu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dff145b-f8cf-48ed-9628-a3fa8c7d7dcf",
+    "data": [
+      {
+        "text": "ben onu sormadım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

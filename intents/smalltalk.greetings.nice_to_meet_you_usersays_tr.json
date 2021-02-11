@@ -1,0 +1,122 @@
+[
+  {
+    "id": "33bfc196-b585-44a3-a0b9-abc215d0f5d0",
+    "data": [
+      {
+        "text": "tanışmamız iyi oldu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d569a0c1-bf47-4723-a01c-43f74be43eb3",
+    "data": [
+      {
+        "text": "tanıştığımıza sevindim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e6d8483-74f6-496e-84aa-800a90b888bc",
+    "data": [
+      {
+        "text": "seni tanıdığıma sevindim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2ce4c79-192e-4ffd-8b51-39b2a5290b0d",
+    "data": [
+      {
+        "text": "seninle tanışmak benim içim bir zevkti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "562ec38a-012b-466d-a74f-d359bb250650",
+    "data": [
+      {
+        "text": "ben de memnun oldum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8d8532c-2f74-4ba7-b243-9c357e3e5fed",
+    "data": [
+      {
+        "text": "tanıştığımıza çok memnun oldum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfa42f74-34fd-4364-987d-96acefe8f95a",
+    "data": [
+      {
+        "text": "tanıştığımıza memnun oldum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10537d3b-68e1-4426-898a-07f10e762360",
+    "data": [
+      {
+        "text": "ben de çok memnun oldum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad385a76-b8a8-4dc4-aaa3-61937ea46260",
+    "data": [
+      {
+        "text": "iyi ki tanıştık",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4d37de8-ee3d-4f93-bdaa-ad6b631bad03",
+    "data": [
+      {
+        "text": "seninle tanışmak güzeldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

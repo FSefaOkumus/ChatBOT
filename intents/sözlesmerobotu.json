@@ -1,0 +1,31 @@
+{
+  "id": "20eb802b-0713-4279-951e-bfe0726d7ba5",
+  "name": "sözlesmerobotu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "SRX650 (Sözleşme Robotu) : Farklı paydaşlarla yapılan sözleşme sürecinin yenilenme takipleri ile ödeme ve alacakların sözleşmeye uygunluğunun kontrollerini yapar, sürecin kritik noktalarında hatırlatmalar oluşturur."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "e0606e56-2b82-4ec0-89a4-6ebcf9872a56",
+  "name": "smalltalk.dialog.hug",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.hug",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Lütfen Sosyal Mesafe Kurallarına Uyalım."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

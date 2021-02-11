@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b88d0ba3-8f94-4409-ba8c-33d2792e0815",
+    "data": [
+      {
+        "text": "srx robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "304536be-b13a-4bf5-ab90-f8c5a2ae13f3",
+    "data": [
+      {
+        "text": "SRX",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

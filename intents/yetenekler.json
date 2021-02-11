@@ -1,0 +1,31 @@
+{
+  "id": "0b93a8c1-ed91-48d2-84ed-94c1d81043f2",
+  "name": "yetenekler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Merhaba, Ben ARYA. MomemtumBT adına çalışan yapay zeka destekli bir çalışanım ! Size daha hızlı ve güzel bir deneyim yaratmak adına geliştirildim.Size nasıl yardımcı olabilirim ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "732c4ff3-c57a-4931-9dc3-3c25c816d50d",
+  "name": "smalltalk.greetings.nice_to_meet_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_meet_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Ben de tanıştığımıza memnum oldum ! Seninle tanışmak benim içim bir zevkti !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

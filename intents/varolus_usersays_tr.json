@@ -1,0 +1,38 @@
+[
+  {
+    "id": "95b0d255-5112-4332-87d8-dd206b38d8f0",
+    "data": [
+      {
+        "text": "varoluşunuz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28b5ccea-bf1f-4957-b3d4-a5706b83dd06",
+    "data": [
+      {
+        "text": "varoluş",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3445db95-4310-4b47-941f-9750d9c5d829",
+    "data": [
+      {
+        "text": "varoluşumuz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

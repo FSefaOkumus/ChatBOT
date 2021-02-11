@@ -1,0 +1,37 @@
+{
+  "id": "60c363e6-4204-40db-9def-00c9a4592349",
+  "name": "smalltalk.greetings.how_are_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.how_are_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": [
+            "Harika hissediyorum ! Sana yardım etmek için sabırsızlanıyorum !",
+            "Herşey yolunda !",
+            "Çok iyiyim ! Sana yardım etmek için sabırsızlanıyorum !",
+            "Sana yardım etmek için sabırsızlanıyorum !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

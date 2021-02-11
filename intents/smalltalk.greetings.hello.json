@@ -1,0 +1,38 @@
+{
+  "id": "d6c0afee-2fd4-45b2-8fa3-e1175fdce0ab",
+  "name": "smalltalk.greetings.hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.hello",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": [
+            "Selam",
+            "Merhaba",
+            "Selamlar !",
+            "Seni görmek çok güzel !",
+            "Merhabalar !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

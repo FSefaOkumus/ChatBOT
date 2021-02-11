@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d7c7b165-a327-4856-b088-0593705f4b73",
+    "data": [
+      {
+        "text": "bunu mu demek istedin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c276a84a-c4b1-415d-ab74-8e371134366d",
+    "data": [
+      {
+        "text": "tam olarak ne demek istiyorsun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d233d5c-00ee-4547-81ac-62f64fe76395",
+    "data": [
+      {
+        "text": "tam olarak ne demek istedin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e257450-32d2-405c-b2f2-74a3bce60c61",
+    "data": [
+      {
+        "text": "ne demek istiyorsun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f54c653-9763-4a00-a928-9fe4df56659e",
+    "data": [
+      {
+        "text": "tamam da ne demek istiyorsun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

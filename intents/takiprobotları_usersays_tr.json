@@ -1,0 +1,155 @@
+[
+  {
+    "id": "4de93fc0-4cbf-4be6-9d58-848a0c40c97f",
+    "data": [
+      {
+        "text": "teşvik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18792e33-327c-4a42-93eb-058d757b4a5e",
+    "data": [
+      {
+        "text": "Konkordato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "501a343b-7773-47aa-bc0a-58aeb762e4be",
+    "data": [
+      {
+        "text": "SağlıkBank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea52d210-cf0a-4fb7-81c2-2434521715cf",
+    "data": [
+      {
+        "text": "ekap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda67bf5-f9ef-4ef1-a433-9c90e5df1658",
+    "data": [
+      {
+        "text": "ihale",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66164cba-ce23-49d6-8dac-85657fda8f8f",
+    "data": [
+      {
+        "text": "ihalde takip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5b71b75-b05f-466b-98fd-12f5e947ecad",
+    "data": [
+      {
+        "text": "hibe",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fbb41c7-eeeb-407b-b8c7-09c70bc3061c",
+    "data": [
+      {
+        "text": "hibe destek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cceb9c69-84b0-467e-ad88-85bf8762e8e3",
+    "data": [
+      {
+        "text": "yakıt takip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "420d12fd-0bda-4748-96a8-68441f7ed092",
+    "data": [
+      {
+        "text": "takip robotları",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8eefe875-274e-42b6-aa2b-445bca2a962d",
+    "data": [
+      {
+        "text": "takip etme ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12c24cf7-e569-4bb5-81f0-b62deab8b480",
+    "data": [
+      {
+        "text": "takip botları",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

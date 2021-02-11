@@ -1,0 +1,51 @@
+[
+  {
+    "id": "341b1e8f-da46-44a4-8691-93c24626f72f",
+    "data": [
+      {
+        "text": "telekomda nasıl kullanılır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4da7ad0-fb68-43b0-9fbe-d872e235f342",
+    "data": [
+      {
+        "text": "Telekomünikasyon sektöründe nasıl kullanılır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "232fdfc1-8eb5-4b14-b0f2-5efccb9a7480",
+    "data": [
+      {
+        "text": "telekom",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f970535-1b2f-46e2-afb6-ef83d48c2fea",
+    "data": [
+      {
+        "text": "Telekomünikasyon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "id": "c9293c3e-b917-40f3-aa2d-d9e859162f64",
+  "name": "takiprobotları",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8b7475cf-1ab5-4569-80d2-4fbc80f9414b",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "KAP ve Sağlıkbank  üzerinde yayınlanan belirlediğiniz kriterler için tüm yayınlanmış ihaleleri bulur. Dokümanları indirir ve isteğiniz kişi ile paylaşır.",
+                  "type": "info",
+                  "title": "İHALE TAKİP"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "title": "HİBE ve DESTEK TAKİP",
+                  "subtitle": "Faaliyet alanınız ile ilgili yayınlanan tüm hibe ve teşviklerden sizi anında haberdar eder. Koşulları hakkında bilgi verir"
+                },
+                {
+                  "type": "info",
+                  "title": "YAKIT – TAKİP",
+                  "subtitle": "Belli istasyonların ilçe bazında günlük yakıt fiyatları ile ilgili değişimleri izler sizi bilgilendirir"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "title": "KONKORDATO TAKİP",
+                  "subtitle": "Müşteri ve tedarikçinin konkordato durumlarını takip eder ve konu ile ilgili sizi bilgilendirir"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

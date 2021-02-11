@@ -1,0 +1,101 @@
+[
+  {
+    "id": "af4427c5-ba64-49dd-b9c4-7f2c6be3e6e0",
+    "data": [
+      {
+        "text": "kimsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d61bec4f-1d4a-4dec-8104-3b77e2265134",
+    "data": [
+      {
+        "text": "sen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kimsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e538ad8-ab65-420a-9f6a-081f4e147715",
+    "data": [
+      {
+        "text": "nasıl çalışıyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "878f7609-10f5-4893-866a-7d328ce8de7d",
+    "data": [
+      {
+        "text": "yeteneklerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71666cc8-68af-41f9-a050-6a16d27a52a5",
+    "data": [
+      {
+        "text": "neye",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yararsın",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8434e826-5c51-484d-b517-53cd24371a69",
+    "data": [
+      {
+        "text": "ne iş yaparsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a931ddf1-0c14-4b3b-ac70-603c90319e08",
+    "data": [
+      {
+        "text": "Neler yapıyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

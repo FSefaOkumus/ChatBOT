@@ -1,0 +1,52 @@
+{
+  "id": "06deeb35-840c-42de-b69d-0cd58aba731e",
+  "name": "talepformu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Bu formu doldurarak, MomentumBT\u0027nin firmanız altyapısı hakkında detaylı bilgi sahibi olarak, firmanıza özel bir çözüm üretmesine yardımcı olacaksınız."
+        },
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/2019/06/momentum-logo-s.png"
+                    }
+                  },
+                  "title": "Talep Formu",
+                  "actionLink": "http://www.momentumbt.com/poc-talep-formu/",
+                  "type": "info"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

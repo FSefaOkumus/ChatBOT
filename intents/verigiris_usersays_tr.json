@@ -1,0 +1,167 @@
+[
+  {
+    "id": "0ac5b00c-92a2-48ca-be53-cd6cab63ec4b",
+    "data": [
+      {
+        "text": "otomatik boşluk doldurma robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7833d595-4f44-49e0-8b4d-b6848d2a2bbc",
+    "data": [
+      {
+        "text": "kutu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " doldurmak için robot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c4d245d-eeda-42bb-88fb-7a7d4902c7f2",
+    "data": [
+      {
+        "text": "boşluk doldurma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e17f874c-bcd6-4aa7-a4d3-85e807c839aa",
+    "data": [
+      {
+        "text": "MES",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ea88b41-1804-43c0-b89e-7b05e042027a",
+    "data": [
+      {
+        "text": "CRM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9071b24a-75f1-447a-aa3a-15d33574d15b",
+    "data": [
+      {
+        "text": "ERP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbdd0904-c5e9-441b-9356-1c24d9fa0901",
+    "data": [
+      {
+        "text": "kutuya veri girme ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ba728cd-231a-4100-ae15-befb122471eb",
+    "data": [
+      {
+        "text": "kutuya veri doldurma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c03f18e-f442-4d15-8f65-b2e9c1ce330e",
+    "data": [
+      {
+        "text": "kutuya isim yazma ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1baf0fd-b7fb-4ca4-af47-d9a1e5a3c875",
+    "data": [
+      {
+        "text": "boşluk doldurma robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dcf36c1-3d94-4535-a33f-fdb0ce968af6",
+    "data": [
+      {
+        "text": "değer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " girme robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13526513-3aaa-4b7c-b94b-ed0de6227eba",
+    "data": [
+      {
+        "text": "veri giriş robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

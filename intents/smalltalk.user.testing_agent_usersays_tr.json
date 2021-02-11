@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c923cb65-87b6-47b4-a700-c612f05d08fb",
+    "data": [
+      {
+        "text": "seni test edebilir miyim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee7289a2-5c8c-4d48-8d32-b93f37ec39d9",
+    "data": [
+      {
+        "text": "seni test etmek istiyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49cec0e2-61ba-4120-ba89-5870a345e626",
+    "data": [
+      {
+        "text": "sohbet robotu test ediliyor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61b678f5-425d-4539-bab9-a3fb95b33411",
+    "data": [
+      {
+        "text": "test",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71276562-d363-443c-b09c-03dfeccee852",
+    "data": [
+      {
+        "text": "seni test ediyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1e703f1-8735-471e-b5f0-7287b1877a91",
+    "data": [
+      {
+        "text": "sadece seni test ediyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9380a12d-8169-4d44-aa69-3f8a98340067",
+    "data": [
+      {
+        "text": "seni test edeyim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44fbac3d-cf23-4073-b22f-ead82fe46966",
+    "data": [
+      {
+        "text": "test ediliyor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

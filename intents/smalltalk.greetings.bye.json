@@ -1,0 +1,36 @@
+{
+  "id": "afce13bd-d446-4618-8851-daa7752bb286",
+  "name": "smalltalk.greetings.bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.bye",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": [
+            "Görüşmek üzere ! Bizi tercih ettiğin için teşekkürler !",
+            "Umarım güzel bir deneyim olmuştur ! Güle güle !",
+            "Sonra görüşürüz !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

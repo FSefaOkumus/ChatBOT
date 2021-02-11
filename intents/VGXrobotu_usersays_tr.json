@@ -1,0 +1,144 @@
+[
+  {
+    "id": "2d19fefa-e679-4af1-8909-f489d7302bd0",
+    "data": [
+      {
+        "text": "Kişisel Verileri Koruma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kanunu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1311537-34fd-4c6b-a05f-c4fb14566949",
+    "data": [
+      {
+        "text": "6698",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92e2f599-3ef9-4e58-a015-836119a2c218",
+    "data": [
+      {
+        "text": "veri güvenliği",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96253c77-ac16-49de-a07c-5f80356d2271",
+    "data": [
+      {
+        "text": "hassas veriler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e362945-38de-48ff-9703-ffa1192a737b",
+    "data": [
+      {
+        "text": "gdpr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a6e0e83-639f-4a4c-b8f2-ef5e56d656ec",
+    "data": [
+      {
+        "text": "kvkk",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1070c099-d1fa-47d6-8c9b-b5bf98cbc971",
+    "data": [
+      {
+        "text": "vgx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ceafc37e-3962-4676-b43a-887332af1382",
+    "data": [
+      {
+        "text": "siber suç",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " için bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89133d38-e929-4e68-b6f0-8346bfbc38aa",
+    "data": [
+      {
+        "text": "veri hırsızlığı engelleme ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0cb3fa9-ea3e-428f-8e00-e30d353702b8",
+    "data": [
+      {
+        "text": "veri güvenliği denetimi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

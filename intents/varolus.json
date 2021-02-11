@@ -1,0 +1,31 @@
+{
+  "id": "6c8581b6-091a-4e25-a933-a8c1a5c198d2",
+  "name": "varolus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "Kendi gücümüzün farkına vardığımızda bu gücü “insanların hayatlarına dokunabilmek” için kullanmaya ve paylaşmaya karar verdik. Varoluşumuzun temeline; Sürekli öğrenmeyi, öğrenileni aktarmayı ve aktarılanı davranışa dönüştürmeyi koyduk. Öğrenmek ve öğrenileni davranışa dönüştürmek için çıktığımız bu keyifli yolda, sizlerle birlikte yürüyüp yol arkadaşlığı ve rehberlik görevini üstlenmeyi hedef olarak belirledik."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

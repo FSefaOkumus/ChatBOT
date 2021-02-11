@@ -1,0 +1,175 @@
+{
+  "id": "60970714-53f6-4ffe-8e7f-6d7a08ce5595",
+  "name": "urunler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "title": "MBTX Robotlarımız",
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/",
+                  "type": "info",
+                  "subtitle": "Size özel yönetim raporu hazırlar; nitelikli işgücüne vakit kaybettirdiğimiz tüm işleri sanal işgücüne yaptırma şansı yaratır."
+                },
+                {
+                  "title": "VERİ GİRİŞ – ROBOTU",
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/excel-otomasyonu/",
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "subtitle": "VERİ GİRİŞ robotları ile DBS, ÇKS, SGK, İŞKUR  gibi kamu işletmeleri dışında özel işletmelerin kullandığı ERP, CRM yada MES gibi farklı sistemlere yapılan her türlü veri girişini çalışanın niteliksiz iş yükünü  ortadan kaldırır  ve 0 hata ile çok hızlı yapmasını sağlar.\nSüreçin maliyetinin  en az dört kat azalmasını sağlar"
+                },
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "subtitle": "Bir çok İşletme ERP ihitaçlarını SAP’yi tercih etmektedir. SAP botlarımız ile SAP kullanıcılarına her modülü için veri girişinde tam doğruluk ve hız sağlayarak ilave rapor seçenekleri için kişisel çözümleri kurumsal hafızaya alıyoruz. Müşteriler arka uçlarında neredeyse sıfır hata olduğunu fark etmiş ve bu da yeniden işleme maliyetini azaltacaktır.",
+                  "type": "info",
+                  "title": "SAP Otomasyonu",
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/sap-otomasyonu/"
+                },
+                {
+                  "type": "info",
+                  "title": "Takip Robotlarımız",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/takip-robotlar/",
+                  "subtitle": "Belirlediğiniz kriterler için tüm yayınlanmış ihaleleri bulur"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Satın Alma Robotu",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "type": "info",
+                  "subtitle": "Satın alma yapacağınız ürünler için tedarikçilerinize mail atar. Gelen tüm teklifleri konsolide eder. Belirlenen kriterlere en uygun olanı belirler. Yöneticiden uygunluk onayını alır ve buna göre sipariş talebini tedarikçilerinize mail gönderir.",
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Müşterilerden gelen siparişler için müşteri listelerini kontrol eder. Stok uygunluk ve tedarik koşullarına göre siparişi sevkiyat emrine çevirir.",
+                  "type": "info",
+                  "title": "Sipariş Robotu",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "subtitle": "El yazısı olmayan elektronik ortadaki tüm faturaların doğruluğunu kontrol eder, işler, Tahsilat gecikmelerini tespit eder, bilgilendirme yapar ve müşterilere hatırlatma maili gönderir.",
+                  "title": "Fatura ve Tahsilat Robotu",
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/",
+                  "title": "Sözleşme Robotu",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "subtitle": "Farklı paydaşlarla yapılan sözleşme sürecinin yenilenme takipleri ile ödeme ve alacakların sözleşmeye uygunluğunun kontrollerini yapar, sürecin kritik noktalarında hatırlatmalar oluşturur.",
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "VGX Robotu",
+                  "subtitle": "Çalışanların SGK bildirimlerini, bordro düzenlemelerini, teşvik takiplerini ve 3.  kuruluşlar ile ilgili diğer resmi bildirimleri yapar.",
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "type": "info"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "info",
+                  "subtitle": "Hem GDPR, hem 6698 Sayılı Kişisel Verileri Koruma Kanunu ve mevzuatlarında yer alan idari ve teknik tedbirlere ait süreçlerin yönetimi RPA teknolojisi ile geliştirdiğimiz VGX ile her ölçekte şirket ya da kamu kurumu için GDPR ve KVKK yükümlülüklerini yerine getirecek bir üründür.",
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "title": "Sicil Robotu"
+                },
+                {
+                  "type": "info",
+                  "title": "CHATBOT OTOMASYONU",
+                  "subtitle": "Yapay zeka kabiliyetine sahip Chatbot, soru sorar, bilgi toplar ve arka ofis uygulamanızda bir sohbet penceresi, metin veya e-posta yoluyla görev yürütür.",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://www.momentumbt.com/wp-content/uploads/rpa-hk-1024x512.jpg"
+                    }
+                  },
+                  "actionLink": "http://www.momentumbt.com/urunlerimiz/chatbot-otomasyonu/"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

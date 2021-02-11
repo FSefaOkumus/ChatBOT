@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1555a2f4-0229-41b9-9130-2285e37204f3",
+    "data": [
+      {
+        "text": "anlaşma ",
+        "userDefined": false
+      },
+      {
+        "text": "botu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6908b2a2-52e2-426e-a306-d6dd3caec332",
+    "data": [
+      {
+        "text": "paydaşlar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " için bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74502185-e4f9-4ed8-abf6-6fe82eb30f68",
+    "data": [
+      {
+        "text": "sözleşme süresi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "450194dd-97e7-48ce-938e-d007ec0eb19b",
+    "data": [
+      {
+        "text": "sözleşme robotu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fec77d5-ff29-4b24-a988-b26291b389e3",
+    "data": [
+      {
+        "text": "sözleşme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

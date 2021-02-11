@@ -1,0 +1,59 @@
+{
+  "id": "48584c96-585a-405d-a367-0af0018227dd",
+  "name": "Yapabileceklerim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Yapabileceklerim-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "İşte Senin için Yapabileceklerim."
+        },
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "1 - Ürünlerimiz",
+                    "2 - Fırsatlar",
+                    "3 - Hakkımızda",
+                    "4 - Sektörler",
+                    "5 - Dijital Dönüşüm",
+                    "6 - İletişim"
+                  ],
+                  "type": "description"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

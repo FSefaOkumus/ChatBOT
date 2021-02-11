@@ -1,0 +1,156 @@
+[
+  {
+    "id": "2c4f6efd-f335-441b-8577-9a63cdba4d0c",
+    "data": [
+      {
+        "text": "yapabileceklerim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f80ae4ca-48b2-4717-b806-023f4bf11329",
+    "data": [
+      {
+        "text": "yapabileceklerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13d655e0-23c2-4efb-bbe7-30c44b8b92cd",
+    "data": [
+      {
+        "text": "destek almak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a99d43b3-e3e7-42f4-bd87-88df2fff546f",
+    "data": [
+      {
+        "text": "bilgi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f59205f6-3034-43be-85ed-f9a5879f2b7c",
+    "data": [
+      {
+        "text": "bilgi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e0afb1a-2be6-4f81-8339-9b9cca3bd788",
+    "data": [
+      {
+        "text": "yardım",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " et",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b94bcba-3193-444c-b61b-62674b8b9023",
+    "data": [
+      {
+        "text": "bana ",
+        "userDefined": false
+      },
+      {
+        "text": "yardım",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " et",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90463c02-e08c-40da-9bfd-e35a28c3dc33",
+    "data": [
+      {
+        "text": "benim",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " için ne yapabilirsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97dd7d44-aacb-4800-96c0-b9e61614d375",
+    "data": [
+      {
+        "text": "neler yapabilirsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15f37ac3-0dab-4503-82cf-e5cbce5e30da",
+    "data": [
+      {
+        "text": "Bana nasıl ",
+        "userDefined": false
+      },
+      {
+        "text": "yardımcı",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " olabilirsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "314dcd5a-e1a6-42fa-9912-2fa2aa0b2b78",
+  "name": "VGXrobotu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "VGX Robotu : Yurt içi ve yut dışında veri güvenliği denetimlerinin başlaması ve veri hırsızlığı gibi siber suçların artması ile beraber daha detaylı bir sistemsel çözümlere ihtiyaç duyulmaya başlanmıştır.\n\nHem GDPR, hem 6698 Sayılı Kişisel Verileri Koruma Kanunu ve mevzuatlarında yer alan idari ve teknik tedbirlere ait süreçlerin yönetimi RPA teknolojisi ile geliştirdiğimiz VGX ile her ölçekte şirket ya da kamu kurumu için GDPR ve KVKK yükümlülüklerini yerine getirecek bir üründür.\n\nVGX işletmelerin gizli, kritik ya da hassas verilerinin kolayca yönetilmesine olanak tanıyan bir robottur."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c8db5c3a-222f-4e5f-bdc2-f8adacbbeb00",
+    "data": [
+      {
+        "text": "merhaba iyi akşamlar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "654b0a05-86b5-4813-a120-cbab9e668d3f",
+    "data": [
+      {
+        "text": "iyi akşamlar sana",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c40186d1-860d-4eaa-94dd-aef4beb9b030",
+    "data": [
+      {
+        "text": "iyi akşamlar dilerim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7a49096-9fc5-4331-8a3c-b6213fbf7eea",
+    "data": [
+      {
+        "text": "selam iyi akşamlar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6010e9d2-a109-4bd5-b104-13b6bfcbfddd",
+    "data": [
+      {
+        "text": "iyi akşamlar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "390f3a7a-aabf-4f24-9dcd-53acb00d6df3",
+    "data": [
+      {
+        "text": "hayırlı akşamlar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

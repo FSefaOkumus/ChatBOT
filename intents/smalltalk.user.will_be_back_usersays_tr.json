@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0c49db87-ced2-4e07-9661-2efb04971e66",
+    "data": [
+      {
+        "text": "geri döneceğim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8309eae1-0b5c-49d7-ba58-db4e8aafaf36",
+    "data": [
+      {
+        "text": "birkaç dakika sonra döneceğim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0b2d206-6e90-43ac-b49c-5d34a48cd336",
+    "data": [
+      {
+        "text": "birazdan sana döneceğim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db285391-6039-4932-aa47-3897631ed01a",
+    "data": [
+      {
+        "text": "söz veriyorum geri geleceğim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a6d2bb-24d9-4658-a9a6-c12c2320d15b",
+    "data": [
+      {
+        "text": "5 dakika içinde döneceğim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

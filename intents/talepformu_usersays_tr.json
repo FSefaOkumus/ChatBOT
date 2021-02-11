@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0d86f2a4-48b9-402b-b195-ee2886ad74f0",
+    "data": [
+      {
+        "text": "kayıt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e070c83-d456-4d65-b4fe-12cfd365de5b",
+    "data": [
+      {
+        "text": "kayıt olmak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaf45493-e41e-45dd-bc90-e0d814df0ccc",
+    "data": [
+      {
+        "text": "talep formu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db8998e9-fd68-41c7-844f-e57745c51a80",
+    "data": [
+      {
+        "text": "kayıt oluşturun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14cb96a4-a96c-4894-8850-30fa1b650de8",
+    "data": [
+      {
+        "text": "talep formu lütfen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

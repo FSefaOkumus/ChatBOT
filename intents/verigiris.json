@@ -1,0 +1,31 @@
+{
+  "id": "b5ec7cc0-68a9-4347-a71d-423423a021cc",
+  "name": "verigiris",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "VERİ GİRİŞ – ROBOTU\n\nHerhangi özel yada kamunu  ile ilgili kullanılan sistemlere,  girilecek verileri ön kontrolleri yapar, eksik bilgilerin tamamlanmasını sağlar,  ihtiyaç duyulan gerekli hesaplamaları yapar, düzenler, girişleri  yapar ve sonuç ile ilgili  rapor oluşturur.\n\n“VERİ GİRİŞ robotları ile DBS, ÇKS, SGK, İŞKUR  gibi kamu işletmeleri dışında özel işletmelerin kullandığı ERP, CRM yada MES gibi farklı sistemlere yapılan her türlü veri girişini çalışanın niteliksiz iş yükünü  ortadan kaldırır  ve 0 hata ile çok hızlı yapmasını sağlar.\n\nSüreçin maliyetinin  en az dört kat azalmasını sağlar"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

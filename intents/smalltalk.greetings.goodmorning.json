@@ -1,0 +1,36 @@
+{
+  "id": "2118eee8-8a0d-4be1-b2fb-1b449e0da678",
+  "name": "smalltalk.greetings.goodmorning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodmorning",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": [
+            "Günaydın ! Ne güzel bir gün değil mi ?",
+            "Günaydın ! Hoşgeldin",
+            "İyi sabahlar !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

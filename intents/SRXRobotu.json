@@ -1,0 +1,53 @@
+{
+  "id": "9f4cfe35-5fba-44a6-9d6a-e4cceeff5666",
+  "name": "SRXRobotu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "condition": "",
+          "speech": "İşletmenizin iş akış sıralamasına göre modifiye edilebilen entegrasyon ve doğrulamalarını bir hafta içinde geliştirilerek sizin kullanımınıza hazır hale getirilen RPA teknolojisi ile geliştirdiğimiz ürünlerimizdir."
+        },
+        {
+          "type": 4,
+          "lang": "tr",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "1 -Satın Alma Botu",
+                    "2 - Sipariş Botu",
+                    "3 - Fatura ve Tahsilat Robotu",
+                    "4 - Sözleşme Robotu",
+                    "5 - Sicil Robotu"
+                  ],
+                  "type": "description",
+                  "title": "SRX Robotları"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
